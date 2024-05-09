@@ -42,7 +42,7 @@ function AnimeProvider({ children }) {
     async function fetchDataMovie() {
       try {
         const res3 = await fetch(
-          `http://www.omdbapi.com/?apikey=${keyOfApi}&s=${searchAnime}`
+          `https://www.omdbapi.com/?apikey=${keyOfApi}&s=${searchAnime}`
         );
         const data3 = await res3.json();
         if (data3.Response === "False") {
