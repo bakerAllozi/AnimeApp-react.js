@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/AnimeApp-react.js/static/css/main.65553b64.css",
-    "main.js": "/AnimeApp-react.js/static/js/main.26cabd41.js",
+    "main.js": "/AnimeApp-react.js/static/js/main.ce7a9f47.js",
     "static/media/Color-Splash-Wallpapers-1.jpg": "/AnimeApp-react.js/static/media/Color-Splash-Wallpapers-1.25565b7e5455042e2a3b.jpg",
     "index.html": "/AnimeApp-react.js/index.html",
     "main.65553b64.css.map": "/AnimeApp-react.js/static/css/main.65553b64.css.map",
-    "main.26cabd41.js.map": "/AnimeApp-react.js/static/js/main.26cabd41.js.map"
+    "main.ce7a9f47.js.map": "/AnimeApp-react.js/static/js/main.ce7a9f47.js.map"
   },
   "entrypoints": [
     "static/css/main.65553b64.css",
-    "static/js/main.26cabd41.js"
+    "static/js/main.ce7a9f47.js"
   ]
 }
