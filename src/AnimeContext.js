@@ -22,7 +22,8 @@ function AnimeProvider({ children }) {
       try {
         const [res1, res2] = await Promise.all([
           fetch("https://api.jikan.moe/v4/top/anime"),
-          fetch("https://api.jikan.moe/v4/random/anime"),
+          // fetch("https://api.jikan.moe/v4/random/anime"),
+          fetch("https://"),
         ]);
         const data1 = await res1.json();
         const data2 = await res2.json();
